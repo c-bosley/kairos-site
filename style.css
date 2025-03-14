@@ -10,12 +10,14 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 5px;
 }
 
 .header .logo img {
     max-height: 10px;
     text-align: center;
+    margin: 0 auto;
+    display: block;
 }
 
 nav ul {
